@@ -1,2 +1,2 @@
-# c-thread
+# csharp-thread
 learn about c# thread
